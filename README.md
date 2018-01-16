@@ -1,1 +1,2 @@
 # Lex_About-Meet_Yash
+Chat bot to chat and know about me (well only a little), this bot has the ability to validate inputs and connect intents to specific functions where we can perform API calls or perform any desired action. I've also added functionality to book a meeting and after validation is sucessful it will send an email to me with date and time specifics. This bot is intended to only work with Amazon Lex. I've used Amazon LEX, Lambda, RDS, SNS to make this bot functional.
